@@ -3,8 +3,8 @@ const maxMistakes = 2;
 
 const levels = [
     {
-        sequence: ["./IMG/Hojas/hoja5.PNG", "./IMG/Hojas/hoja1.PNG", "./IMG/Hojas/hoja4.PNG", "./IMG/Hojas/hoja7.PNG", "./IMG/Hojas/hoja5.PNG", "pregunta.PNG"],
-        answer: "./IMG/Hojas/hoja1.PNG"
+        sequence: ["./IMG/Hojas/hoja5.png", "./IMG/Hojas/hoja1.png", "./IMG/Hojas/hoja4.png", "./IMG/Hojas/hoja7.png", "./IMG/Hojas/hoja5.png", "pregunta.png"],
+        answer: "./IMG/Hojas/hoja1.png"
     },
     {
         sequence: ["./IMG/Hojas/hoja6.png", "./IMG/Hojas/hoja5.png", "./IMG/Hojas/hoja7.png", "./IMG/Hojas/hoja3.png", "./IMG/Hojas/hoja6.png", "pregunta.png"],
